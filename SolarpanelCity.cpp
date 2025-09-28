@@ -1,5 +1,5 @@
-#include <windows.h> // for MS Windows
-#include <GL/glut.h> // GLUT, include glu.h and gl.h
+#include <windows.h> 
+#include <GL/glut.h> 
 #include <math.h>
 #include <stdlib.h>
 #include <iostream>
