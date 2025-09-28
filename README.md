@@ -3,6 +3,11 @@
 This project is an OpenGL-based simulation of a modern urban environment with a focus on renewable energy, particularly solar power.
 It demonstrates how cities function under normal conditions and during blackout scenarios, highlighting the resilience of solar-powered infrastructure.  
 
+## Project Contents  
+- **Source Code** – C++ with OpenGL implementation.  file name [Solarpanelcity.cpp]
+- **Screenshots** – Captures of different simulation scenarios.  
+- **Project Report** – Detailed documentation of features, design, and findings.  
+
 ## Core Features  
 - **Day and Night Cycle** with sun, moon, and background transitions.  
 - **Moving Clouds** for dynamic atmosphere.  
@@ -16,10 +21,6 @@ It demonstrates how cities function under normal conditions and during blackout 
 - **Power Poles and Electric Grid** to visualize dependency.  
 - **User Interactivity** (keyboard controls for blackout and solar).  
 
-## Project Contents  
-- **Source Code** – C++ with OpenGL implementation.  
-- **Screenshots** – Captures of different simulation scenarios.  
-- **Project Report** – Detailed documentation of features, design, and findings.  
 
 ---
 
